@@ -47,6 +47,5 @@ app.*.map.json
 opening.dart
 **config
 **widgets
-matrix.dart
 main.dart
 listener.dart
